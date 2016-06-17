@@ -98,7 +98,7 @@ Then an HTML file is loaded and parsed as HTML. Then we iterate over all element
 </template>
 ```
 
-Result: ["username", "someOtherProperty"]
+Result: `["username", "someOtherProperty"]`
 
 Using aurelia's binding system we parse these expressions into AccessScopes:
 
